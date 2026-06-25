@@ -25,6 +25,7 @@ public class GitClaudeUnrealTest : ModuleRules
 
 		PublicIncludePaths.AddRange(new string[] {
 			"GitClaudeUnrealTest",
+			"GitClaudeUnrealTest/ThirdPerson",
 			"GitClaudeUnrealTest/Variant_Platforming",
 			"GitClaudeUnrealTest/Variant_Platforming/Animation",
 			"GitClaudeUnrealTest/Variant_Combat",
